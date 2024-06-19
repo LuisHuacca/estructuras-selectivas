@@ -24,7 +24,7 @@ int main() {
     } else {
         cout<<"El alumno reprueba el curso con un promedio de "<<promedio<<"."<<endl;
     }
-    
+    cout<<"El programa a finalizado.";
     return 0;
 }
 
