@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	
+	cout<<"bienvenido "<<endl;
 	cout<<"----------Se ha iniciado el programa con exito---------"<<endl;
 	
     float calificacion1, calificacion2, calificacion3;
